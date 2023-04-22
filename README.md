@@ -1,2 +1,2 @@
 # PrepCouse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Este es un proyecto repositorio de prueba del modulo 2 de Henry
